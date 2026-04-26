@@ -1,0 +1,8 @@
+{
+  "name": "xhttp-vercel-relay",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
